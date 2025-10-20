@@ -1,0 +1,10002 @@
+[
+  {
+    "isOpened": false,
+    "Sensor": 203,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 895,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 984,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 283,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 643,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 986,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 464,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 128,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 569,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 496,
+    "heart rate": 116
+  },
+  {
+    "isOpened": true,
+    "Sensor": 21,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 340,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 281,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 454,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 403,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 552,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 764,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 432,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 820,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 623,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 211,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 310,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 538,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 469,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 747,
+    "heart rate": 99
+  },
+  {
+    "isOpened": true,
+    "Sensor": 90,
+    "heart rate": 56
+  },
+  {
+    "isOpened": true,
+    "Sensor": 70,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 554,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 896,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 666,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 331,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 996,
+    "heart rate": 139
+  },
+  {
+    "isOpened": true,
+    "Sensor": 4,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 267,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 346,
+    "heart rate": 89
+  },
+  {
+    "isOpened": true,
+    "Sensor": 23,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 965,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 200,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 251,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 599,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 683,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 709,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 241,
+    "heart rate": 61
+  },
+  {
+    "isOpened": true,
+    "Sensor": 9,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 233,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 436,
+    "heart rate": 77
+  },
+  {
+    "isOpened": false,
+    "Sensor": 116,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1013,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 574,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 417,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 165,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 790,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1019,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 539,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 378,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 927,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 833,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 284,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 690,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 649,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 447,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 441,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 523,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 724,
+    "heart rate": 74
+  },
+  {
+    "isOpened": true,
+    "Sensor": 66,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 694,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 462,
+    "heart rate": 108
+  },
+  {
+    "isOpened": true,
+    "Sensor": 94,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 460,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 419,
+    "heart rate": 68
+  },
+  {
+    "isOpened": true,
+    "Sensor": 60,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 933,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 470,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 541,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 507,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 456,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 274,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 538,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 214,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 237,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 712,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 216,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 341,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 405,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 777,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 684,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 702,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 487,
+    "heart rate": 162
+  },
+  {
+    "isOpened": true,
+    "Sensor": 76,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 661,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 638,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 357,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 614,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 717,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 216,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 881,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 139,
+    "heart rate": 172
+  },
+  {
+    "isOpened": true,
+    "Sensor": 47,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 882,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 306,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 641,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 537,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 652,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 805,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 315,
+    "heart rate": 179
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 989,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 624,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 354,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 389,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 398,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 220,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 491,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 744,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 386,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1007,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 333,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 880,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 120,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 630,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 871,
+    "heart rate": 49
+  },
+  {
+    "isOpened": true,
+    "Sensor": 23,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 312,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 904,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 109,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 479,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 640,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 717,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 219,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 390,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 246,
+    "heart rate": 46
+  },
+  {
+    "isOpened": true,
+    "Sensor": 54,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 263,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 300,
+    "heart rate": 63
+  },
+  {
+    "isOpened": true,
+    "Sensor": 84,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 999,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 360,
+    "heart rate": 83
+  },
+  {
+    "isOpened": true,
+    "Sensor": 84,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 815,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 427,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 531,
+    "heart rate": 60
+  },
+  {
+    "isOpened": true,
+    "Sensor": 7,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 347,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 844,
+    "heart rate": 179
+  },
+  {
+    "isOpened": true,
+    "Sensor": 17,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 288,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 409,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 782,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 804,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 573,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 906,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 142,
+    "heart rate": 91
+  },
+  {
+    "isOpened": true,
+    "Sensor": 46,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 171,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 389,
+    "heart rate": 46
+  },
+  {
+    "isOpened": true,
+    "Sensor": 6,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 499,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 395,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 505,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1020,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 271,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 296,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 867,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 659,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 474,
+    "heart rate": 83
+  },
+  {
+    "isOpened": true,
+    "Sensor": 35,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 993,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 697,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 440,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 960,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 581,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1024,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 671,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 423,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 520,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 140,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 607,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 204,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 936,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 560,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 861,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 569,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 506,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 597,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 772,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 471,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 253,
+    "heart rate": 172
+  },
+  {
+    "isOpened": true,
+    "Sensor": 89,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 703,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 719,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 128,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 913,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 659,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 664,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 106,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 254,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 178,
+    "heart rate": 50
+  },
+  {
+    "isOpened": true,
+    "Sensor": 28,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 663,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 760,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 187,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 82
+  },
+  {
+    "isOpened": true,
+    "Sensor": 57,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 483,
+    "heart rate": 99
+  },
+  {
+    "isOpened": true,
+    "Sensor": 25,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 316,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 918,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 841,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 905,
+    "heart rate": 113
+  },
+  {
+    "isOpened": true,
+    "Sensor": 30,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 567,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 734,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 838,
+    "heart rate": 129
+  },
+  {
+    "isOpened": true,
+    "Sensor": 62,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 896,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 348,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 680,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 692,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 521,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 177,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 855,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 899,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 326,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1014,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 646,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 769,
+    "heart rate": 60
+  },
+  {
+    "isOpened": true,
+    "Sensor": 92,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 600,
+    "heart rate": 93
+  },
+  {
+    "isOpened": true,
+    "Sensor": 1,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 229,
+    "heart rate": 99
+  },
+  {
+    "isOpened": true,
+    "Sensor": 6,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 409,
+    "heart rate": 81
+  },
+  {
+    "isOpened": true,
+    "Sensor": 59,
+    "heart rate": 82
+  },
+  {
+    "isOpened": true,
+    "Sensor": 25,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 171,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 223,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 325,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 145,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 710,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 251,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 608,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 101,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 329,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 392,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 419,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 881,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 389,
+    "heart rate": 101
+  },
+  {
+    "isOpened": true,
+    "Sensor": 89,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 386,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 934,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 580,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 799,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 546,
+    "heart rate": 88
+  },
+  {
+    "isOpened": true,
+    "Sensor": 21,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 169,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 852,
+    "heart rate": 131
+  },
+  {
+    "isOpened": true,
+    "Sensor": 87,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 336,
+    "heart rate": 142
+  },
+  {
+    "isOpened": true,
+    "Sensor": 61,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 940,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 472,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 967,
+    "heart rate": 43
+  },
+  {
+    "isOpened": true,
+    "Sensor": 19,
+    "heart rate": 47
+  },
+  {
+    "isOpened": true,
+    "Sensor": 11,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 715,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 563,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 226,
+    "heart rate": 140
+  },
+  {
+    "isOpened": true,
+    "Sensor": 74,
+    "heart rate": 93
+  },
+  {
+    "isOpened": true,
+    "Sensor": 84,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 594,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 832,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 917,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 831,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 818,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 204,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 110,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 598,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 758,
+    "heart rate": 94
+  },
+  {
+    "isOpened": true,
+    "Sensor": 96,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 980,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 529,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 657,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 451,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 886,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 380,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 413,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 204,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 387,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 499,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 994,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 141,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 871,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 640,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 469,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 411,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 508,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 375,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 400,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 942,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 799,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 770,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 322,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 806,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 435,
+    "heart rate": 116
+  },
+  {
+    "isOpened": true,
+    "Sensor": 97,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 753,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 339,
+    "heart rate": 177
+  },
+  {
+    "isOpened": true,
+    "Sensor": 23,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 295,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 117,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 779,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 885,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 890,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 227,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 425,
+    "heart rate": 86
+  },
+  {
+    "isOpened": true,
+    "Sensor": 84,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 920,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 143,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 986,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 153
+  },
+  {
+    "isOpened": true,
+    "Sensor": 88,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 191,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 205,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 704,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 567,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 795,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 936,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 910,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 901,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 762,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 122,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 502,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 255,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 194,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 221,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 355,
+    "heart rate": 58
+  },
+  {
+    "isOpened": true,
+    "Sensor": 18,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 557,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 939,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 964,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 912,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 427,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 651,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 891,
+    "heart rate": 42
+  },
+  {
+    "isOpened": true,
+    "Sensor": 85,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 143,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 916,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 804,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 907,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 360,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 408,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 793,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 646,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 343,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 887,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 529,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 209,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 460,
+    "heart rate": 63
+  },
+  {
+    "isOpened": true,
+    "Sensor": 17,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 312,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 533,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 581,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 708,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1002,
+    "heart rate": 87
+  },
+  {
+    "isOpened": true,
+    "Sensor": 32,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 182,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 423,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 964,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 572,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1017,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 567,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 874,
+    "heart rate": 173
+  },
+  {
+    "isOpened": true,
+    "Sensor": 75,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 711,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 284,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 444,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 523,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 856,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 991,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 520,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 139,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 472,
+    "heart rate": 77
+  },
+  {
+    "isOpened": true,
+    "Sensor": 50,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 318,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 123,
+    "heart rate": 76
+  },
+  {
+    "isOpened": true,
+    "Sensor": 15,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 254,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 712,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 449,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 778,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 494,
+    "heart rate": 136
+  },
+  {
+    "isOpened": true,
+    "Sensor": 79,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 828,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 205,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 624,
+    "heart rate": 149
+  },
+  {
+    "isOpened": true,
+    "Sensor": 19,
+    "heart rate": 43
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 316,
+    "heart rate": 74
+  },
+  {
+    "isOpened": true,
+    "Sensor": 41,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 647,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 450,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 266,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 836,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 742,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 691,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 893,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 214,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 639,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 150,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 855,
+    "heart rate": 44
+  },
+  {
+    "isOpened": true,
+    "Sensor": 83,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 629,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 494,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 781,
+    "heart rate": 41
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 147
+  },
+  {
+    "isOpened": true,
+    "Sensor": 92,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 669,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 550,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 330,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 333,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 464,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 717,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 396,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 135,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 472,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 652,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 333,
+    "heart rate": 144
+  },
+  {
+    "isOpened": true,
+    "Sensor": 72,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 948,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1004,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 749,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 270,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 908,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 820,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1021,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 435,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 314,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 682,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 782,
+    "heart rate": 180
+  },
+  {
+    "isOpened": true,
+    "Sensor": 83,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 651,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 384,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 572,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 301,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 217,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 352,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 109,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1015,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 452,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 109,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 779,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 206,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 605,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 842,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 420,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 594,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 721,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 620,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 799,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 659,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 973,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 424,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 168,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 398,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 635,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 611,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 206,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 245,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 755,
+    "heart rate": 70
+  },
+  {
+    "isOpened": true,
+    "Sensor": 61,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 681,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 185,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 240,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 410,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 866,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1014,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 847,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 337,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 148,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 449,
+    "heart rate": 60
+  },
+  {
+    "isOpened": true,
+    "Sensor": 38,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 490,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1010,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 219,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 568,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 284,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 675,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 174,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 549,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 274,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 214,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 890,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 924,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 426,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 632,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 984,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 898,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 517,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 554,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 389,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1020,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 413,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 819,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 963,
+    "heart rate": 64
+  },
+  {
+    "isOpened": true,
+    "Sensor": 34,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 583,
+    "heart rate": 54
+  },
+  {
+    "isOpened": true,
+    "Sensor": 99,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1009,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 448,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1007,
+    "heart rate": 171
+  },
+  {
+    "isOpened": true,
+    "Sensor": 82,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 400,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 355,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 478,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 628,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 576,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 210,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 999,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 943,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 469,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 419,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 534,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 667,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 833,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 572,
+    "heart rate": 43
+  },
+  {
+    "isOpened": true,
+    "Sensor": 81,
+    "heart rate": 110
+  },
+  {
+    "isOpened": true,
+    "Sensor": 49,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1020,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 438,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 691,
+    "heart rate": 91
+  },
+  {
+    "isOpened": true,
+    "Sensor": 15,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 503,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 315,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 468,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1024,
+    "heart rate": 180
+  },
+  {
+    "isOpened": true,
+    "Sensor": 35,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 284,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 970,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 206,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 354,
+    "heart rate": 119
+  },
+  {
+    "isOpened": true,
+    "Sensor": 80,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 514,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 852,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 310,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 706,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1017,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 445,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 510,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 177,
+    "heart rate": 175
+  },
+  {
+    "isOpened": true,
+    "Sensor": 0,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1008,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 673,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1010,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 825,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 857,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 491,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 301,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 777,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 839,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 906,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 950,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 938,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 862,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 739,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 792,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 368,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 716,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 337,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 161,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 120,
+    "heart rate": 180
+  },
+  {
+    "isOpened": true,
+    "Sensor": 31,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 587,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 369,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 880,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 434,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 633,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 429,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 302,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 639,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 260,
+    "heart rate": 114
+  },
+  {
+    "isOpened": true,
+    "Sensor": 27,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 987,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 672,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 342,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1016,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 215,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 372,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 584,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1004,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 460,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 498,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 413,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 336,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 130,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 427,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 575,
+    "heart rate": 112
+  },
+  {
+    "isOpened": true,
+    "Sensor": 26,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 236,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 171,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 964,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 417,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 748,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 240,
+    "heart rate": 107
+  },
+  {
+    "isOpened": true,
+    "Sensor": 71,
+    "heart rate": 60
+  },
+  {
+    "isOpened": true,
+    "Sensor": 16,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 771,
+    "heart rate": 81
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 698,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 729,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 707,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 181,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 979,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 919,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 300,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 821,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 352,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 788,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 697,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 425,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 664,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 345,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 277,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 585,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 326,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 313,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 812,
+    "heart rate": 106
+  },
+  {
+    "isOpened": true,
+    "Sensor": 32,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 551,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1011,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 432,
+    "heart rate": 138
+  },
+  {
+    "isOpened": true,
+    "Sensor": 80,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 874,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 623,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 247,
+    "heart rate": 114
+  },
+  {
+    "isOpened": true,
+    "Sensor": 56,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 335,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 345,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 415,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 692,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 948,
+    "heart rate": 97
+  },
+  {
+    "isOpened": true,
+    "Sensor": 41,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1019,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1015,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 991,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 579,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 300,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 505,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 752,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 752,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 626,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 145,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 518,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 105,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 817,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 523,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 333,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 418,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 165,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 650,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 352,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 981,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 221,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 619,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 545,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 671,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 939,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 371,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 248,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 889,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 218,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 552,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 331,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 776,
+    "heart rate": 157
+  },
+  {
+    "isOpened": true,
+    "Sensor": 48,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 125,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 973,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 447,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 658,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 720,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 976,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 876,
+    "heart rate": 57
+  },
+  {
+    "isOpened": true,
+    "Sensor": 91,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 729,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 475,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 815,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 975,
+    "heart rate": 127
+  },
+  {
+    "isOpened": true,
+    "Sensor": 1,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 826,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 728,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 837,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 614,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 751,
+    "heart rate": 57
+  },
+  {
+    "isOpened": true,
+    "Sensor": 78,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 515,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 695,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 120,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 409,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 248,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 579,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 152,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 759,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 367,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 777,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 199,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 212,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 396,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 324,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 304,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 606,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 115,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 348,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 523,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 942,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 996,
+    "heart rate": 65
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 67
+  },
+  {
+    "isOpened": true,
+    "Sensor": 51,
+    "heart rate": 91
+  },
+  {
+    "isOpened": true,
+    "Sensor": 60,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 390,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 168,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 207,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 321,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 777,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 431,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 202,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 183,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 938,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 402,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 848,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 770,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 483,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 739,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 114,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 312,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 401,
+    "heart rate": 80
+  },
+  {
+    "isOpened": true,
+    "Sensor": 87,
+    "heart rate": 40
+  },
+  {
+    "isOpened": true,
+    "Sensor": 75,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 657,
+    "heart rate": 110
+  },
+  {
+    "isOpened": true,
+    "Sensor": 22,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 723,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 220,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 750,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 420,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 421,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 946,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 812,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 543,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 649,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 640,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 530,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 463,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 849,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 438,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 619,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 353,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 822,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 327,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 922,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 634,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 288,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 742,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 576,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 330,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 349,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 939,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 628,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 565,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 374,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 883,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 571,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 104,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 875,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 109,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 455,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 357,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 686,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 269,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1002,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 919,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 227,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 538,
+    "heart rate": 179
+  },
+  {
+    "isOpened": true,
+    "Sensor": 3,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 214,
+    "heart rate": 160
+  },
+  {
+    "isOpened": true,
+    "Sensor": 38,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 817,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 151,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 734,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 374,
+    "heart rate": 113
+  },
+  {
+    "isOpened": true,
+    "Sensor": 59,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 183,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 699,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 405,
+    "heart rate": 172
+  },
+  {
+    "isOpened": true,
+    "Sensor": 31,
+    "heart rate": 77
+  },
+  {
+    "isOpened": false,
+    "Sensor": 950,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 214,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 565,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 396,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1011,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 713,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 245,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 725,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 610,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 604,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 550,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 983,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 878,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 157,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 609,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 765,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 640,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 260,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 891,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 355,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 313,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1003,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 928,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 216,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 417,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 509,
+    "heart rate": 78
+  },
+  {
+    "isOpened": true,
+    "Sensor": 20,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 681,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 336,
+    "heart rate": 113
+  },
+  {
+    "isOpened": true,
+    "Sensor": 61,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 281,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 771,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 542,
+    "heart rate": 101
+  },
+  {
+    "isOpened": true,
+    "Sensor": 82,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 620,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 906,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 311,
+    "heart rate": 49
+  },
+  {
+    "isOpened": true,
+    "Sensor": 88,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 439,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 946,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1002,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 937,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 251,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 531,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 617,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 304,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 478,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 378,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 886,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 140,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 223,
+    "heart rate": 115
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 368,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 114,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 561,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 688,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 345,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 811,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 776,
+    "heart rate": 77
+  },
+  {
+    "isOpened": false,
+    "Sensor": 712,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1016,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 637,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 396,
+    "heart rate": 169
+  },
+  {
+    "isOpened": true,
+    "Sensor": 49,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 793,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 112,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 416,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 235,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 496,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 448,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 120,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 94
+  },
+  {
+    "isOpened": true,
+    "Sensor": 75,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 444,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 421,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1009,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 872,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 691,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 431,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 873,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 967,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 587,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 841,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 256,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 283,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 610,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 107,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 284,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 243,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 912,
+    "heart rate": 105
+  },
+  {
+    "isOpened": true,
+    "Sensor": 54,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 418,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 312,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 189,
+    "heart rate": 119
+  },
+  {
+    "isOpened": true,
+    "Sensor": 27,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 645,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 898,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 644,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 663,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 473,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 661,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 258,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 286,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 785,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 102,
+    "heart rate": 40
+  },
+  {
+    "isOpened": true,
+    "Sensor": 53,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 652,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 440,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 963,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 322,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 513,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 948,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 780,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 475,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 657,
+    "heart rate": 140
+  },
+  {
+    "isOpened": true,
+    "Sensor": 37,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 358,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 199,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 225,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 258,
+    "heart rate": 103
+  },
+  {
+    "isOpened": true,
+    "Sensor": 45,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 631,
+    "heart rate": 44
+  },
+  {
+    "isOpened": true,
+    "Sensor": 11,
+    "heart rate": 77
+  },
+  {
+    "isOpened": true,
+    "Sensor": 55,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 264,
+    "heart rate": 146
+  },
+  {
+    "isOpened": true,
+    "Sensor": 13,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 151,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 802,
+    "heart rate": 106
+  },
+  {
+    "isOpened": true,
+    "Sensor": 82,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 878,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 149,
+    "heart rate": 43
+  },
+  {
+    "isOpened": true,
+    "Sensor": 0,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 934,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 243,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1002,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 616,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 445,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 996,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 745,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 774,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 500,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 475,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 381,
+    "heart rate": 94
+  },
+  {
+    "isOpened": true,
+    "Sensor": 1,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 357,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1012,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1018,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 779,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 580,
+    "heart rate": 46
+  },
+  {
+    "isOpened": true,
+    "Sensor": 82,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 143,
+    "heart rate": 57
+  },
+  {
+    "isOpened": true,
+    "Sensor": 64,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 317,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 216,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 433,
+    "heart rate": 171
+  },
+  {
+    "isOpened": true,
+    "Sensor": 45,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 487,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 658,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 573,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 773,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 366,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 576,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 141
+  },
+  {
+    "isOpened": true,
+    "Sensor": 8,
+    "heart rate": 71
+  },
+  {
+    "isOpened": true,
+    "Sensor": 16,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1009,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 462,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 603,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 200,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 601,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 355,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 965,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 741,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 562,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 950,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 754,
+    "heart rate": 155
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 192,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 208,
+    "heart rate": 74
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 215,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 485,
+    "heart rate": 89
+  },
+  {
+    "isOpened": true,
+    "Sensor": 96,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 794,
+    "heart rate": 75
+  },
+  {
+    "isOpened": true,
+    "Sensor": 42,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 220,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 449,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 105,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 615,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 170,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 133,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 608,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 392,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 111,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 119,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 323,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 619,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 277,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 446,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 594,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 197,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 342,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 754,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 435,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 254,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 343,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 780,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 258,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 319,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 451,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 184,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 808,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 156,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 724,
+    "heart rate": 178
+  },
+  {
+    "isOpened": true,
+    "Sensor": 65,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 259,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 274,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 971,
+    "heart rate": 139
+  },
+  {
+    "isOpened": true,
+    "Sensor": 92,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 463,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 534,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 364,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 154,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 107,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 396,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 162,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 988,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 715,
+    "heart rate": 77
+  },
+  {
+    "isOpened": false,
+    "Sensor": 151,
+    "heart rate": 76
+  },
+  {
+    "isOpened": true,
+    "Sensor": 48,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 665,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 648,
+    "heart rate": 91
+  },
+  {
+    "isOpened": true,
+    "Sensor": 55,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 349,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 913,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 308,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 444,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 821,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 295,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 223,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 678,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1020,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 831,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 417,
+    "heart rate": 113
+  },
+  {
+    "isOpened": true,
+    "Sensor": 72,
+    "heart rate": 94
+  },
+  {
+    "isOpened": true,
+    "Sensor": 60,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 691,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 148,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 115,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 937,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 497,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 488,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 991,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 388,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 287,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 862,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 563,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 879,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 586,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 168,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 316,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 408,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 854,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 272,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 720,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 224,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 278,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 248,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 915,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 926,
+    "heart rate": 121
+  },
+  {
+    "isOpened": false,
+    "Sensor": 718,
+    "heart rate": 55
+  },
+  {
+    "isOpened": true,
+    "Sensor": 21,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 230,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 297,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 723,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 903,
+    "heart rate": 96
+  },
+  {
+    "isOpened": true,
+    "Sensor": 75,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 473,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 195,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 187,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 926,
+    "heart rate": 122
+  },
+  {
+    "isOpened": true,
+    "Sensor": 41,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 254,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 977,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 62
+  },
+  {
+    "isOpened": true,
+    "Sensor": 36,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 990,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 772,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 552,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 115,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 523,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 371,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 496,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 857,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 244,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1000,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 956,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 216,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 627,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1016,
+    "heart rate": 118
+  },
+  {
+    "isOpened": true,
+    "Sensor": 13,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 242,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 633,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 833,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 829,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 803,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 170,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 940,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 792,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 258,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 571,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 595,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 193,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 432,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 848,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 305,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 893,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 924,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 609,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 747,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 483,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 718,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 244,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1014,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 427,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 976,
+    "heart rate": 160
+  },
+  {
+    "isOpened": true,
+    "Sensor": 54,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 367,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 526,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 436,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 996,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 378,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 691,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 616,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 922,
+    "heart rate": 169
+  },
+  {
+    "isOpened": true,
+    "Sensor": 89,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 834,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 742,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 848,
+    "heart rate": 96
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 606,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 922,
+    "heart rate": 157
+  },
+  {
+    "isOpened": true,
+    "Sensor": 70,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 602,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 148,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 400,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 269,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 685,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 242,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 737,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 779,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 955,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 363,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 298,
+    "heart rate": 131
+  },
+  {
+    "isOpened": true,
+    "Sensor": 8,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 665,
+    "heart rate": 154
+  },
+  {
+    "isOpened": true,
+    "Sensor": 63,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 277,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 539,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 674,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 562,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 184,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 763,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 576,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 824,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1018,
+    "heart rate": 136
+  },
+  {
+    "isOpened": true,
+    "Sensor": 43,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 367,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 350,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 395,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 716,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 794,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 420,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 570,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 128,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 621,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 298,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 986,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 614,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 911,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 302,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 140,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 407,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 741,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 165,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 829,
+    "heart rate": 84
+  },
+  {
+    "isOpened": false,
+    "Sensor": 834,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 999,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 632,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 423,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 592,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1018,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 736,
+    "heart rate": 168
+  },
+  {
+    "isOpened": false,
+    "Sensor": 710,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 242,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 204,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 454,
+    "heart rate": 67
+  },
+  {
+    "isOpened": true,
+    "Sensor": 34,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 666,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 363,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 549,
+    "heart rate": 77
+  },
+  {
+    "isOpened": true,
+    "Sensor": 79,
+    "heart rate": 127
+  },
+  {
+    "isOpened": true,
+    "Sensor": 68,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 824,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 937,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 945,
+    "heart rate": 169
+  },
+  {
+    "isOpened": true,
+    "Sensor": 23,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 773,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 796,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 142,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 438,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 633,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 372,
+    "heart rate": 63
+  },
+  {
+    "isOpened": true,
+    "Sensor": 81,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 498,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 297,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 298,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 450,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 320,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 671,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 477,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 287,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 301,
+    "heart rate": 156
+  },
+  {
+    "isOpened": true,
+    "Sensor": 15,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 199,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 807,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 939,
+    "heart rate": 71
+  },
+  {
+    "isOpened": true,
+    "Sensor": 81,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 259,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 894,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 783,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 615,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 114,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 201,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 366,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 635,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 377,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 225,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 825,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 432,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 257,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 666,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 355,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 829,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 777,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 923,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 650,
+    "heart rate": 109
+  },
+  {
+    "isOpened": true,
+    "Sensor": 23,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 655,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 161,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 534,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 493,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 151,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 718,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 147,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 996,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 752,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 594,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 874,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 787,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 683,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 717,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 724,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 488,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 858,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 139,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 753,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 945,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 946,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 288,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 149,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 472,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 911,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 150,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 258,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 348,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 682,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 438,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 586,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 910,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 866,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 183,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 410,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 454,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 532,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 901,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 482,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 699,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 535,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 287,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 455,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 747,
+    "heart rate": 46
+  },
+  {
+    "isOpened": true,
+    "Sensor": 88,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 545,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 930,
+    "heart rate": 131
+  },
+  {
+    "isOpened": true,
+    "Sensor": 48,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 904,
+    "heart rate": 100
+  },
+  {
+    "isOpened": true,
+    "Sensor": 74,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 527,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 924,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 890,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 995,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 870,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 118
+  },
+  {
+    "isOpened": true,
+    "Sensor": 73,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 913,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 377,
+    "heart rate": 77
+  },
+  {
+    "isOpened": false,
+    "Sensor": 808,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 991,
+    "heart rate": 70
+  },
+  {
+    "isOpened": true,
+    "Sensor": 92,
+    "heart rate": 44
+  },
+  {
+    "isOpened": true,
+    "Sensor": 7,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 706,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 138,
+    "heart rate": 144
+  },
+  {
+    "isOpened": true,
+    "Sensor": 35,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 314,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 229,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 162,
+    "heart rate": 133
+  },
+  {
+    "isOpened": true,
+    "Sensor": 22,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 128,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 390,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 917,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 389,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 392,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 552,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 738,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 884,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 429,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 968,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 597,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 419,
+    "heart rate": 125
+  },
+  {
+    "isOpened": false,
+    "Sensor": 900,
+    "heart rate": 180
+  },
+  {
+    "isOpened": true,
+    "Sensor": 92,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 818,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 253,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 156,
+    "heart rate": 107
+  },
+  {
+    "isOpened": false,
+    "Sensor": 509,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 843,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 783,
+    "heart rate": 131
+  },
+  {
+    "isOpened": true,
+    "Sensor": 43,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 857,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 770,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 450,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 585,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 726,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 693,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 643,
+    "heart rate": 74
+  },
+  {
+    "isOpened": true,
+    "Sensor": 67,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 664,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 210,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 177,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 989,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 922,
+    "heart rate": 93
+  },
+  {
+    "isOpened": true,
+    "Sensor": 97,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1014,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 117,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 131,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 917,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 642,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 739,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 774,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 376,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 920,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 847,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1024,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1022,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 878,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 260,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 392,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 329,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 938,
+    "heart rate": 99
+  },
+  {
+    "isOpened": true,
+    "Sensor": 37,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 512,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 133,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 590,
+    "heart rate": 135
+  },
+  {
+    "isOpened": false,
+    "Sensor": 619,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 327,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 802,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 766,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 815,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 776,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 194,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 638,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 999,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 533,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 331,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 813,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 306,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 984,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 952,
+    "heart rate": 80
+  },
+  {
+    "isOpened": true,
+    "Sensor": 85,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 393,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 61
+  },
+  {
+    "isOpened": true,
+    "Sensor": 41,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 839,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 239,
+    "heart rate": 128
+  },
+  {
+    "isOpened": true,
+    "Sensor": 37,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 137,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 279,
+    "heart rate": 94
+  },
+  {
+    "isOpened": true,
+    "Sensor": 98,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 526,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 328,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 363,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 299,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 477,
+    "heart rate": 58
+  },
+  {
+    "isOpened": true,
+    "Sensor": 76,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 585,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 485,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 448,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 985,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 135,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 212,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 980,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 252,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 331,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 723,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 565,
+    "heart rate": 61
+  },
+  {
+    "isOpened": true,
+    "Sensor": 22,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 106,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 915,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 589,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 918,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 581,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 936,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 202,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 223,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 474,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 280,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 834,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 46
+  },
+  {
+    "isOpened": true,
+    "Sensor": 40,
+    "heart rate": 118
+  },
+  {
+    "isOpened": false,
+    "Sensor": 483,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 644,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 285,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1021,
+    "heart rate": 48
+  },
+  {
+    "isOpened": true,
+    "Sensor": 22,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 873,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 430,
+    "heart rate": 149
+  },
+  {
+    "isOpened": true,
+    "Sensor": 59,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 222,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 322,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 126,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 337,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 636,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 432,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 236,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 445,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 587,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 162,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 144,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 577,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 799,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 937,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 864,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 852,
+    "heart rate": 142
+  },
+  {
+    "isOpened": true,
+    "Sensor": 54,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 982,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 375,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 455,
+    "heart rate": 120
+  },
+  {
+    "isOpened": true,
+    "Sensor": 2,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 926,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 932,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 281,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 866,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 147,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 833,
+    "heart rate": 133
+  },
+  {
+    "isOpened": false,
+    "Sensor": 963,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 431,
+    "heart rate": 75
+  },
+  {
+    "isOpened": false,
+    "Sensor": 671,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 804,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 481,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 635,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 935,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 188,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 930,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 428,
+    "heart rate": 117
+  },
+  {
+    "isOpened": true,
+    "Sensor": 91,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 764,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 542,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 865,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 475,
+    "heart rate": 170
+  },
+  {
+    "isOpened": true,
+    "Sensor": 57,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 515,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 122,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 199,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 383,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 942,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 870,
+    "heart rate": 131
+  },
+  {
+    "isOpened": true,
+    "Sensor": 5,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 545,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 981,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 966,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 142,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 843,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 420,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 452,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 334,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 296,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 775,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 197,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 812,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 395,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 105,
+    "heart rate": 148
+  },
+  {
+    "isOpened": true,
+    "Sensor": 47,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 459,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 117,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 735,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 965,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 207,
+    "heart rate": 172
+  },
+  {
+    "isOpened": true,
+    "Sensor": 70,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 394,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 816,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 548,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 516,
+    "heart rate": 78
+  },
+  {
+    "isOpened": false,
+    "Sensor": 600,
+    "heart rate": 63
+  },
+  {
+    "isOpened": false,
+    "Sensor": 172,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 843,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 828,
+    "heart rate": 73
+  },
+  {
+    "isOpened": true,
+    "Sensor": 6,
+    "heart rate": 109
+  },
+  {
+    "isOpened": true,
+    "Sensor": 27,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 567,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 894,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 770,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 931,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 635,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 255,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 212,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 110,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 240,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 253,
+    "heart rate": 76
+  },
+  {
+    "isOpened": true,
+    "Sensor": 2,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 118,
+    "heart rate": 76
+  },
+  {
+    "isOpened": true,
+    "Sensor": 66,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 862,
+    "heart rate": 169
+  },
+  {
+    "isOpened": true,
+    "Sensor": 27,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 488,
+    "heart rate": 163
+  },
+  {
+    "isOpened": true,
+    "Sensor": 28,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 462,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 271,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 505,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 454,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 156,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 278,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 766,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 549,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 107,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 431,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 667,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 483,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 193,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 415,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 171,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 856,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 296,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 338,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 488,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1019,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 598,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 721,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 512,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1000,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1017,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 667,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 742,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 472,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 247,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 649,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 928,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 876,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 639,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 506,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 984,
+    "heart rate": 155
+  },
+  {
+    "isOpened": true,
+    "Sensor": 45,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 820,
+    "heart rate": 144
+  },
+  {
+    "isOpened": false,
+    "Sensor": 990,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 593,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 602,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 489,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 285,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 561,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 499,
+    "heart rate": 50
+  },
+  {
+    "isOpened": false,
+    "Sensor": 451,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 399,
+    "heart rate": 147
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 581,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 674,
+    "heart rate": 136
+  },
+  {
+    "isOpened": true,
+    "Sensor": 9,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 872,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 974,
+    "heart rate": 98
+  },
+  {
+    "isOpened": true,
+    "Sensor": 24,
+    "heart rate": 106
+  },
+  {
+    "isOpened": false,
+    "Sensor": 863,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 734,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 805,
+    "heart rate": 55
+  },
+  {
+    "isOpened": true,
+    "Sensor": 44,
+    "heart rate": 110
+  },
+  {
+    "isOpened": true,
+    "Sensor": 8,
+    "heart rate": 99
+  },
+  {
+    "isOpened": true,
+    "Sensor": 50,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 565,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 436,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 363,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 655,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 401,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 732,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 354,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 684,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1023,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 990,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 980,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 863,
+    "heart rate": 43
+  },
+  {
+    "isOpened": false,
+    "Sensor": 986,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 609,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 563,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 784,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 261,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 706,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 152,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 134,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 830,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 471,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 168,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 874,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 145,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 213,
+    "heart rate": 110
+  },
+  {
+    "isOpened": false,
+    "Sensor": 402,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 763,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 407,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 410,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 942,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 464,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 298,
+    "heart rate": 171
+  },
+  {
+    "isOpened": true,
+    "Sensor": 13,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 343,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 116,
+    "heart rate": 90
+  },
+  {
+    "isOpened": true,
+    "Sensor": 13,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 742,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 859,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 533,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 137,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 532,
+    "heart rate": 68
+  },
+  {
+    "isOpened": false,
+    "Sensor": 512,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 164,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 228,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 608,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 973,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 694,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 836,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 680,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 881,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 397,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1009,
+    "heart rate": 79
+  },
+  {
+    "isOpened": false,
+    "Sensor": 507,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 653,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 690,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 831,
+    "heart rate": 169
+  },
+  {
+    "isOpened": false,
+    "Sensor": 926,
+    "heart rate": 176
+  },
+  {
+    "isOpened": true,
+    "Sensor": 60,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 478,
+    "heart rate": 159
+  },
+  {
+    "isOpened": false,
+    "Sensor": 577,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 678,
+    "heart rate": 115
+  },
+  {
+    "isOpened": true,
+    "Sensor": 37,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 138,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 878,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 965,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 692,
+    "heart rate": 175
+  },
+  {
+    "isOpened": true,
+    "Sensor": 62,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 689,
+    "heart rate": 130
+  },
+  {
+    "isOpened": false,
+    "Sensor": 763,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 492,
+    "heart rate": 153
+  },
+  {
+    "isOpened": true,
+    "Sensor": 62,
+    "heart rate": 123
+  },
+  {
+    "isOpened": true,
+    "Sensor": 25,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 426,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 412,
+    "heart rate": 105
+  },
+  {
+    "isOpened": true,
+    "Sensor": 49,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 981,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1017,
+    "heart rate": 139
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1007,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 732,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 998,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 163,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 898,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 234,
+    "heart rate": 144
+  },
+  {
+    "isOpened": true,
+    "Sensor": 13,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 129,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 780,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 600,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 138,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 705,
+    "heart rate": 48
+  },
+  {
+    "isOpened": true,
+    "Sensor": 31,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 649,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 736,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1009,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 602,
+    "heart rate": 64
+  },
+  {
+    "isOpened": true,
+    "Sensor": 40,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 476,
+    "heart rate": 121
+  },
+  {
+    "isOpened": false,
+    "Sensor": 377,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1013,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 713,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 295,
+    "heart rate": 123
+  },
+  {
+    "isOpened": true,
+    "Sensor": 79,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 448,
+    "heart rate": 99
+  },
+  {
+    "isOpened": false,
+    "Sensor": 941,
+    "heart rate": 64
+  },
+  {
+    "isOpened": false,
+    "Sensor": 988,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 104,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 845,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 273,
+    "heart rate": 136
+  },
+  {
+    "isOpened": false,
+    "Sensor": 941,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 936,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 498,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 734,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 158
+  },
+  {
+    "isOpened": false,
+    "Sensor": 898,
+    "heart rate": 62
+  },
+  {
+    "isOpened": false,
+    "Sensor": 907,
+    "heart rate": 81
+  },
+  {
+    "isOpened": false,
+    "Sensor": 538,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 774,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 749,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 646,
+    "heart rate": 93
+  },
+  {
+    "isOpened": false,
+    "Sensor": 353,
+    "heart rate": 157
+  },
+  {
+    "isOpened": true,
+    "Sensor": 97,
+    "heart rate": 122
+  },
+  {
+    "isOpened": false,
+    "Sensor": 769,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 929,
+    "heart rate": 129
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1011,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 721,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 391,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 932,
+    "heart rate": 156
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 234,
+    "heart rate": 101
+  },
+  {
+    "isOpened": true,
+    "Sensor": 93,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 273,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 884,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 237,
+    "heart rate": 149
+  },
+  {
+    "isOpened": false,
+    "Sensor": 381,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 174,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 835,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 418,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 207,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 534,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 814,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 931,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 854,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 81
+  },
+  {
+    "isOpened": true,
+    "Sensor": 10,
+    "heart rate": 173
+  },
+  {
+    "isOpened": false,
+    "Sensor": 947,
+    "heart rate": 131
+  },
+  {
+    "isOpened": false,
+    "Sensor": 455,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 603,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 382,
+    "heart rate": 72
+  },
+  {
+    "isOpened": true,
+    "Sensor": 2,
+    "heart rate": 47
+  },
+  {
+    "isOpened": false,
+    "Sensor": 892,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 861,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 785,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 317,
+    "heart rate": 104
+  },
+  {
+    "isOpened": true,
+    "Sensor": 3,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 818,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 582,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 622,
+    "heart rate": 136
+  },
+  {
+    "isOpened": true,
+    "Sensor": 17,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 291,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 874,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 803,
+    "heart rate": 164
+  },
+  {
+    "isOpened": false,
+    "Sensor": 466,
+    "heart rate": 82
+  },
+  {
+    "isOpened": false,
+    "Sensor": 564,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 751,
+    "heart rate": 100
+  },
+  {
+    "isOpened": true,
+    "Sensor": 98,
+    "heart rate": 85
+  },
+  {
+    "isOpened": false,
+    "Sensor": 750,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 823,
+    "heart rate": 177
+  },
+  {
+    "isOpened": false,
+    "Sensor": 491,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 481,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 469,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 146,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 320,
+    "heart rate": 113
+  },
+  {
+    "isOpened": false,
+    "Sensor": 864,
+    "heart rate": 177
+  },
+  {
+    "isOpened": true,
+    "Sensor": 9,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 312,
+    "heart rate": 104
+  },
+  {
+    "isOpened": false,
+    "Sensor": 252,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 227,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 141,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 384,
+    "heart rate": 53
+  },
+  {
+    "isOpened": false,
+    "Sensor": 349,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 378,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 712,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 909,
+    "heart rate": 47
+  },
+  {
+    "isOpened": true,
+    "Sensor": 35,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 846,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 354,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 251,
+    "heart rate": 140
+  },
+  {
+    "isOpened": true,
+    "Sensor": 85,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 229,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 124,
+    "heart rate": 154
+  },
+  {
+    "isOpened": false,
+    "Sensor": 128,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 973,
+    "heart rate": 165
+  },
+  {
+    "isOpened": true,
+    "Sensor": 69,
+    "heart rate": 72
+  },
+  {
+    "isOpened": false,
+    "Sensor": 723,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 542,
+    "heart rate": 172
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 373,
+    "heart rate": 121
+  },
+  {
+    "isOpened": false,
+    "Sensor": 611,
+    "heart rate": 76
+  },
+  {
+    "isOpened": false,
+    "Sensor": 541,
+    "heart rate": 46
+  },
+  {
+    "isOpened": false,
+    "Sensor": 629,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 562,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 337,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 654,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 296,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 795,
+    "heart rate": 121
+  },
+  {
+    "isOpened": false,
+    "Sensor": 108,
+    "heart rate": 124
+  },
+  {
+    "isOpened": false,
+    "Sensor": 966,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 714,
+    "heart rate": 128
+  },
+  {
+    "isOpened": false,
+    "Sensor": 332,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 973,
+    "heart rate": 94
+  },
+  {
+    "isOpened": false,
+    "Sensor": 780,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 314,
+    "heart rate": 52
+  },
+  {
+    "isOpened": false,
+    "Sensor": 542,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 669,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 606,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 253,
+    "heart rate": 137
+  },
+  {
+    "isOpened": false,
+    "Sensor": 887,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 704,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 700,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 336,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 593,
+    "heart rate": 86
+  },
+  {
+    "isOpened": false,
+    "Sensor": 886,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 152,
+    "heart rate": 125
+  },
+  {
+    "isOpened": true,
+    "Sensor": 73,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 166,
+    "heart rate": 70
+  },
+  {
+    "isOpened": true,
+    "Sensor": 75,
+    "heart rate": 51
+  },
+  {
+    "isOpened": true,
+    "Sensor": 66,
+    "heart rate": 41
+  },
+  {
+    "isOpened": false,
+    "Sensor": 743,
+    "heart rate": 152
+  },
+  {
+    "isOpened": true,
+    "Sensor": 53,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 596,
+    "heart rate": 67
+  },
+  {
+    "isOpened": false,
+    "Sensor": 827,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 743,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 958,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 928,
+    "heart rate": 66
+  },
+  {
+    "isOpened": false,
+    "Sensor": 151,
+    "heart rate": 123
+  },
+  {
+    "isOpened": false,
+    "Sensor": 352,
+    "heart rate": 127
+  },
+  {
+    "isOpened": false,
+    "Sensor": 956,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 378,
+    "heart rate": 112
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 168
+  },
+  {
+    "isOpened": true,
+    "Sensor": 70,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 855,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 891,
+    "heart rate": 105
+  },
+  {
+    "isOpened": false,
+    "Sensor": 213,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 506,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 728,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 983,
+    "heart rate": 101
+  },
+  {
+    "isOpened": false,
+    "Sensor": 139,
+    "heart rate": 166
+  },
+  {
+    "isOpened": false,
+    "Sensor": 103,
+    "heart rate": 100
+  },
+  {
+    "isOpened": false,
+    "Sensor": 323,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 266,
+    "heart rate": 81
+  },
+  {
+    "isOpened": true,
+    "Sensor": 80,
+    "heart rate": 58
+  },
+  {
+    "isOpened": false,
+    "Sensor": 732,
+    "heart rate": 60
+  },
+  {
+    "isOpened": false,
+    "Sensor": 971,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 420,
+    "heart rate": 98
+  },
+  {
+    "isOpened": false,
+    "Sensor": 528,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 948,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 975,
+    "heart rate": 157
+  },
+  {
+    "isOpened": true,
+    "Sensor": 35,
+    "heart rate": 40
+  },
+  {
+    "isOpened": false,
+    "Sensor": 757,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 910,
+    "heart rate": 119
+  },
+  {
+    "isOpened": false,
+    "Sensor": 383,
+    "heart rate": 179
+  },
+  {
+    "isOpened": false,
+    "Sensor": 101,
+    "heart rate": 70
+  },
+  {
+    "isOpened": false,
+    "Sensor": 695,
+    "heart rate": 102
+  },
+  {
+    "isOpened": false,
+    "Sensor": 663,
+    "heart rate": 88
+  },
+  {
+    "isOpened": false,
+    "Sensor": 923,
+    "heart rate": 103
+  },
+  {
+    "isOpened": false,
+    "Sensor": 364,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 792,
+    "heart rate": 116
+  },
+  {
+    "isOpened": false,
+    "Sensor": 531,
+    "heart rate": 134
+  },
+  {
+    "isOpened": false,
+    "Sensor": 317,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 817,
+    "heart rate": 80
+  },
+  {
+    "isOpened": false,
+    "Sensor": 471,
+    "heart rate": 175
+  },
+  {
+    "isOpened": false,
+    "Sensor": 126,
+    "heart rate": 56
+  },
+  {
+    "isOpened": false,
+    "Sensor": 599,
+    "heart rate": 114
+  },
+  {
+    "isOpened": false,
+    "Sensor": 916,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 386,
+    "heart rate": 142
+  },
+  {
+    "isOpened": false,
+    "Sensor": 125,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 658,
+    "heart rate": 145
+  },
+  {
+    "isOpened": false,
+    "Sensor": 456,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 405,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 889,
+    "heart rate": 59
+  },
+  {
+    "isOpened": false,
+    "Sensor": 684,
+    "heart rate": 140
+  },
+  {
+    "isOpened": false,
+    "Sensor": 568,
+    "heart rate": 151
+  },
+  {
+    "isOpened": false,
+    "Sensor": 508,
+    "heart rate": 91
+  },
+  {
+    "isOpened": false,
+    "Sensor": 580,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 265,
+    "heart rate": 163
+  },
+  {
+    "isOpened": false,
+    "Sensor": 357,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 594,
+    "heart rate": 178
+  },
+  {
+    "isOpened": false,
+    "Sensor": 434,
+    "heart rate": 71
+  },
+  {
+    "isOpened": false,
+    "Sensor": 689,
+    "heart rate": 167
+  },
+  {
+    "isOpened": false,
+    "Sensor": 522,
+    "heart rate": 97
+  },
+  {
+    "isOpened": false,
+    "Sensor": 480,
+    "heart rate": 138
+  },
+  {
+    "isOpened": false,
+    "Sensor": 677,
+    "heart rate": 143
+  },
+  {
+    "isOpened": false,
+    "Sensor": 449,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 213,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 458,
+    "heart rate": 73
+  },
+  {
+    "isOpened": true,
+    "Sensor": 60,
+    "heart rate": 155
+  },
+  {
+    "isOpened": false,
+    "Sensor": 559,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 211,
+    "heart rate": 90
+  },
+  {
+    "isOpened": false,
+    "Sensor": 780,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 397,
+    "heart rate": 87
+  },
+  {
+    "isOpened": false,
+    "Sensor": 595,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 939,
+    "heart rate": 58
+  },
+  {
+    "isOpened": true,
+    "Sensor": 70,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 995,
+    "heart rate": 65
+  },
+  {
+    "isOpened": false,
+    "Sensor": 501,
+    "heart rate": 87
+  },
+  {
+    "isOpened": true,
+    "Sensor": 96,
+    "heart rate": 162
+  },
+  {
+    "isOpened": false,
+    "Sensor": 561,
+    "heart rate": 180
+  },
+  {
+    "isOpened": false,
+    "Sensor": 399,
+    "heart rate": 176
+  },
+  {
+    "isOpened": false,
+    "Sensor": 870,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1003,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 673,
+    "heart rate": 158
+  },
+  {
+    "isOpened": true,
+    "Sensor": 59,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 224,
+    "heart rate": 109
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 308,
+    "heart rate": 92
+  },
+  {
+    "isOpened": false,
+    "Sensor": 158,
+    "heart rate": 165
+  },
+  {
+    "isOpened": false,
+    "Sensor": 289,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 238,
+    "heart rate": 44
+  },
+  {
+    "isOpened": false,
+    "Sensor": 967,
+    "heart rate": 72
+  },
+  {
+    "isOpened": true,
+    "Sensor": 86,
+    "heart rate": 89
+  },
+  {
+    "isOpened": false,
+    "Sensor": 762,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 836,
+    "heart rate": 74
+  },
+  {
+    "isOpened": false,
+    "Sensor": 929,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 560,
+    "heart rate": 153
+  },
+  {
+    "isOpened": false,
+    "Sensor": 741,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 187,
+    "heart rate": 61
+  },
+  {
+    "isOpened": false,
+    "Sensor": 411,
+    "heart rate": 69
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1002,
+    "heart rate": 83
+  },
+  {
+    "isOpened": false,
+    "Sensor": 572,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 643,
+    "heart rate": 117
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1019,
+    "heart rate": 157
+  },
+  {
+    "isOpened": false,
+    "Sensor": 166,
+    "heart rate": 45
+  },
+  {
+    "isOpened": false,
+    "Sensor": 233,
+    "heart rate": 115
+  },
+  {
+    "isOpened": false,
+    "Sensor": 660,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 381,
+    "heart rate": 54
+  },
+  {
+    "isOpened": false,
+    "Sensor": 434,
+    "heart rate": 141
+  },
+  {
+    "isOpened": true,
+    "Sensor": 91,
+    "heart rate": 146
+  },
+  {
+    "isOpened": false,
+    "Sensor": 563,
+    "heart rate": 120
+  },
+  {
+    "isOpened": false,
+    "Sensor": 655,
+    "heart rate": 48
+  },
+  {
+    "isOpened": false,
+    "Sensor": 165,
+    "heart rate": 72
+  },
+  {
+    "isOpened": true,
+    "Sensor": 91,
+    "heart rate": 57
+  },
+  {
+    "isOpened": false,
+    "Sensor": 694,
+    "heart rate": 132
+  },
+  {
+    "isOpened": false,
+    "Sensor": 485,
+    "heart rate": 141
+  },
+  {
+    "isOpened": false,
+    "Sensor": 510,
+    "heart rate": 55
+  },
+  {
+    "isOpened": false,
+    "Sensor": 925,
+    "heart rate": 152
+  },
+  {
+    "isOpened": false,
+    "Sensor": 164,
+    "heart rate": 95
+  },
+  {
+    "isOpened": false,
+    "Sensor": 715,
+    "heart rate": 161
+  },
+  {
+    "isOpened": false,
+    "Sensor": 222,
+    "heart rate": 108
+  },
+  {
+    "isOpened": false,
+    "Sensor": 600,
+    "heart rate": 160
+  },
+  {
+    "isOpened": false,
+    "Sensor": 514,
+    "heart rate": 49
+  },
+  {
+    "isOpened": false,
+    "Sensor": 186,
+    "heart rate": 42
+  },
+  {
+    "isOpened": false,
+    "Sensor": 428,
+    "heart rate": 151
+  },
+  {
+    "isOpened": true,
+    "Sensor": 22,
+    "heart rate": 73
+  },
+  {
+    "isOpened": false,
+    "Sensor": 244,
+    "heart rate": 111
+  },
+  {
+    "isOpened": false,
+    "Sensor": 1022,
+    "heart rate": 51
+  },
+  {
+    "isOpened": false,
+    "Sensor": 306,
+    "heart rate": 174
+  },
+  {
+    "isOpened": false,
+    "Sensor": 570,
+    "heart rate": 85
+  },
+  {
+    "isOpened": true,
+    "Sensor": 12,
+    "heart rate": 96
+  },
+  {
+    "isOpened": false,
+    "Sensor": 112,
+    "heart rate": 170
+  },
+  {
+    "isOpened": false,
+    "Sensor": 705,
+    "heart rate": 52
+  },
+  {
+    "isOpened": true,
+    "Sensor": 59,
+    "heart rate": 171
+  },
+  {
+    "isOpened": false,
+    "Sensor": 610,
+    "heart rate": 147
+  },
+  {
+    "isOpened": false,
+    "Sensor": 544,
+    "heart rate": 150
+  },
+  {
+    "isOpened": false,
+    "Sensor": 190,
+    "heart rate": 148
+  },
+  {
+    "isOpened": false,
+    "Sensor": 658,
+    "heart rate": 132
+  },
+  {
+    "isOpened": true,
+    "Sensor": 58,
+    "heart rate": 126
+  },
+  {
+    "isOpened": false,
+    "Sensor": 933,
+    "heart rate": 78
+  },
+  {
+    "isOpened": true,
+    "Sensor": 41,
+    "heart rate": 43
+  }
+]

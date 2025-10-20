@@ -8,6 +8,8 @@ from medications.services import process_sensor
 from .fcm_service import send_fcm_notification
 from users.models import User
 
+from .models import SensorData
+
 
 @api_view(['POST'])
 @permission_classes([IsAuthenticated])
@@ -60,3 +62,25 @@ def sensor_payload(request):
         )
     except Exception as e:
         return Response({"error": str(e)}, status=status.HTTP_400_BAD_REQUEST)
+
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def sensor_payload(request):
+    data = request.data
+    sensor_value = data.get("Sensor")
+    heart_rate = data.get("heart_rate")
+    is_opened = data.get("isOpened")
+
+    # 로그 확인용
+    print(f"센서 수신: Sensor={sensor_value}, heart_rate={heart_rate}, isOpened={is_opened}")
+
+    # DB 저장 예시
+    SensorData.objects.create(
+        sensor_value=sensor_value,
+        heart_rate=heart_rate,
+        is_opened=is_opened
+    )
+
+    return Response({"message": "센서 데이터 수신 완료 ✅"}, status=200)

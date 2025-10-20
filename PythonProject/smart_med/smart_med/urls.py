@@ -4,6 +4,7 @@ from rest_framework.routers import DefaultRouter
 from rest_framework_simplejwt.views import (TokenObtainPairView,TokenRefreshView)
 from medications.urls import router as meds_router
 
+
 router = DefaultRouter()
 router.registry.extend(meds_router.registry)
 

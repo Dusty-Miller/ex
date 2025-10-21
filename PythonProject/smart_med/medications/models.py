@@ -14,13 +14,24 @@ class Medication(models.Model):
         return f"{self.name} ({self.user.name})"
 
 class MedicationSchedule(models.Model):
-    medication = models.ForeignKey(Medication, on_delete=models.CASCADE, related_name='schedules')
-    scheduled_time = models.DateTimeField()
+    medication = models.ForeignKey('Medication', on_delete=models.CASCADE, related_name='schedules')
+    scheduled_time = models.DateTimeField()  # 복용 예정 시간
+    is_taken = models.BooleanField(default=False)  # 복용 여부
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.medication.name} - {self.scheduled_time.strftime('%Y-%m-%d %H:%M')}"
 
 class MedicationHistory(models.Model):
-    medication = models.ForeignKey('Medication', on_delete=models.CASCADE, related_name='histories')
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    medication = models.ForeignKey(Medication, on_delete=models.CASCADE)
+    scheduled_time = models.DateTimeField()
     taken_time = models.DateTimeField(auto_now_add=True)
-    status = models.CharField(max_length=20, choices=[('taken','복용'),('missed','미복용')])
+    status = models.CharField(max_length=20, choices=[('taken', '복용'), ('missed', '미복용')])
+
+    def __str__(self):
+        return f"{self.user.username} - {self.medication.name} ({self.status})"
+
 
 class MedicationInfo(models.Model):
     item_seq = models.CharField(max_length=50, unique=True)  # 품목번호

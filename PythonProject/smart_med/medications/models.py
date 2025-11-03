@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils import timezone
 from users.models import User
 
 class Medication(models.Model):
@@ -25,7 +26,7 @@ class MedicationSchedule(models.Model):
 class MedicationHistory(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     medication = models.ForeignKey(Medication, on_delete=models.CASCADE)
-    scheduled_time = models.DateTimeField()
+    scheduled_time = models.DateTimeField(default=timezone.now)
     taken_time = models.DateTimeField(auto_now_add=True)
     status = models.CharField(max_length=20, choices=[('taken', '복용'), ('missed', '미복용')])
 
